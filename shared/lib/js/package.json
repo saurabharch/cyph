@@ -38,7 +38,7 @@
     "@covalent/highlight": "^1.0.1",
     "@covalent/http": "^1.0.1",
     "@covalent/markdown": "^1.0.1",
-    "@firebase/app": "^0.3.3",
+    "@firebase/app": "^0.6.1",
     "@firebase/app-types": "^0.3.2",
     "@firebase/auth": "^0.7.1",
     "@firebase/auth-types": "^0.3.4",
