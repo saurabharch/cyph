@@ -194,7 +194,7 @@
     "nativescript-local-notifications": "^2.0.5",
     "nativescript-material-icons": "^1.0.3",
     "nativescript-messenger": "^1.2.0",
-    "nativescript-nfc": "^2.1.2",
+    "nativescript-nfc": "^3.0.0",
     "nativescript-ngx-fonticon": "^4.2.0",
     "nativescript-opentok": "^2.0.1",
     "nativescript-permissions": "^1.2.3",
