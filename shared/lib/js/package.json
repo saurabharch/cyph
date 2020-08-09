@@ -272,7 +272,7 @@
     "tslint-immutable": "^4.6.0",
     "tslint-microsoft-contrib": "^5.1.0",
     "tsutils": "^2.29.0",
-    "typedoc": "^0.11.1",
+    "typedoc": "^0.18.0",
     "typescript": "2.9",
     "u2f-api-polyfill": "^0.4.3",
     "uglify-es": "^3.3.9",
