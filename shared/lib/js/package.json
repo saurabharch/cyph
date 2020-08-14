@@ -127,7 +127,7 @@
     "firebase-admin": "^5.13.1",
     "firebase-functions": "^2.0.1",
     "firebase-server": "^1.0.0-rc.2",
-    "firebase-tools": "^4.0.0",
+    "firebase-tools": "^4.1.0",
     "fullcalendar": "3.6.1",
     "glob": "^7.1.2",
     "google-closure-compiler": "^20180716.0.1",
