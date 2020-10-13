@@ -213,7 +213,7 @@
     "ngx-image-cropper": "^1.0.1",
     "ngx-infinite-scroll": "^6.0.1",
     "node-fetch": "^2.2.0",
-    "node-sass": "^4.9.2",
+    "node-sass": "^4.13.1",
     "notify-cli": "^0.1.5",
     "ntru": "^3.1.7",
     "od-virtualscroll": "^1.1.0",
