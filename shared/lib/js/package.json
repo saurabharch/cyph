@@ -253,7 +253,7 @@
     "sphincs": "^2.2.1",
     "stacktrace-js": "^2.0.0",
     "style-loader": "^0.21.0",
-    "stylelint": "^9.4.0",
+    "stylelint": "^13.0.0",
     "stylelint-scss": "^3.2.0",
     "supersphincs": "^6.1.2",
     "tab-indent": "^1.0.2",
