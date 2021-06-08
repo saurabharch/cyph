@@ -185,7 +185,7 @@
     "nativescript-contacts": "^1.5.5",
     "nativescript-css-loader": "^0.26.1",
     "nativescript-dev-typescript": "^0.7.2",
-    "nativescript-dev-webpack": "^0.15.0",
+    "nativescript-dev-webpack": "^0.16.2",
     "nativescript-dialog": "^0.1.0",
     "nativescript-email": "^1.5.3",
     "nativescript-fingerprint-auth": "^6.0.4",
@@ -290,7 +290,7 @@
     "whatwg-fetch": "^2.0.4",
     "wowjs": "^1.1.3",
     "xkcd-passphrase": "^3.2.6",
-    "zombie": "^6.1.2",
+    "zombie": "^6.1.4",
     "zone.js": "^0.8.26"
   }
 }
