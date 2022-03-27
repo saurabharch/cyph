@@ -162,7 +162,7 @@
     "libsodium-wrappers": "https://github.com/jedisct1/libsodium.js",
     "libsodium-wrappers-sumo": "https://github.com/jedisct1/libsodium.js",
     "localforage": "^1.7.2",
-    "lodash-es": "^4.17.10",
+    "lodash-es": "^4.17.21",
     "long": "^4.0.0",
     "lunr": "^2.3.1",
     "lz4": "^0.5.3",
