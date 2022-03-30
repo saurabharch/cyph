@@ -35,7 +35,7 @@
     "@compodoc/compodoc": "^1.1.3",
     "@covalent/core": "^1.0.1",
     "@covalent/dynamic-forms": "^1.0.1",
-    "@covalent/highlight": "^1.0.1",
+    "@covalent/highlight": "^4.1.0",
     "@covalent/http": "^1.0.1",
     "@covalent/markdown": "^1.0.1",
     "@firebase/app": "^0.3.3",
