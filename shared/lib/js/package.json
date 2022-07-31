@@ -141,7 +141,7 @@
     "html-webpack-plugin": "^3.2.0",
     "htmlencode": "^0.0.4",
     "htmllint": "^0.7.2",
-    "image-type": "^3.0.0",
+    "image-type": "^5.0.0",
     "interact.js": "^1.2.8",
     "jasmine-core": "2",
     "jasmine-spec-reporter": "^4.2.1",
