@@ -217,7 +217,7 @@
     "notify-cli": "^0.1.5",
     "ntru": "^3.1.7",
     "od-virtualscroll": "^1.1.0",
-    "opentok": "^2.6.2",
+    "opentok": "^2.15.2",
     "parchment": "^1.1.4",
     "pdfjs-dist": "^2.0.489",
     "pdfkit": "^0.8.3",
