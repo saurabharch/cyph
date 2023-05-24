@@ -1,0 +1,10 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - nativescript-dev-webpack > webpack-cli > jscodeshift > babel-register > babel-core > lodash:
+        patched: '2023-05-24T21:23:00.749Z'
+    - nativescript-dev-webpack > webpack-cli > jscodeshift > babel-register > babel-core > babel-generator > lodash:
+        patched: '2023-05-24T21:23:00.749Z'
