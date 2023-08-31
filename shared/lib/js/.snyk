@@ -1,0 +1,131 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-AXIOS-174505:
+    - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > @google-cloud/common > google-auto-auth > gcp-metadata > axios:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: SNYK-JS-AXIOS-174505
+        path: >-
+          firebase-tools > @google-cloud/functions-emulator >
+          @google-cloud/storage > @google-cloud/common > google-auto-auth >
+          gcp-metadata > axios
+    - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > @google-cloud/common > google-auto-auth > google-auth-library > axios:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: SNYK-JS-AXIOS-174505
+        path: >-
+          firebase-tools > @google-cloud/functions-emulator >
+          @google-cloud/storage > @google-cloud/common > google-auto-auth >
+          google-auth-library > axios
+    - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > @google-cloud/common > google-auto-auth > google-auth-library > gcp-metadata > axios:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: SNYK-JS-AXIOS-174505
+        path: >-
+          firebase-tools > @google-cloud/functions-emulator >
+          @google-cloud/storage > @google-cloud/common > google-auto-auth >
+          google-auth-library > gcp-metadata > axios
+    - firebase-tools > @google-cloud/functions-emulator > @google-cloud/storage > @google-cloud/common > google-auto-auth > google-auth-library > gtoken > axios:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: SNYK-JS-AXIOS-174505
+        path: >-
+          firebase-tools > @google-cloud/functions-emulator >
+          @google-cloud/storage > @google-cloud/common > google-auto-auth >
+          google-auth-library > gtoken > axios
+  'npm:hoek:20180212':
+    - prepack > v8-profiler > node-pre-gyp > hawk > hoek:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: 'npm:hoek:20180212'
+        path: prepack > v8-profiler > node-pre-gyp > hawk > hoek
+    - prepack > v8-profiler > node-pre-gyp > hawk > boom > hoek:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: 'npm:hoek:20180212'
+        path: prepack > v8-profiler > node-pre-gyp > hawk > boom > hoek
+    - karma > log4js > loggly > request > hawk > hoek:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: 'npm:hoek:20180212'
+        path: karma > log4js > loggly > request > hawk > hoek
+    - prepack-webpack-plugin > prepack > v8-profiler > node-pre-gyp > hawk > hoek:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: 'npm:hoek:20180212'
+        path: >-
+          prepack-webpack-plugin > prepack > v8-profiler > node-pre-gyp > hawk >
+          hoek
+    - prepack > v8-profiler > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: 'npm:hoek:20180212'
+        path: prepack > v8-profiler > node-pre-gyp > hawk > sntp > hoek
+    - karma > log4js > loggly > request > hawk > boom > hoek:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: 'npm:hoek:20180212'
+        path: karma > log4js > loggly > request > hawk > boom > hoek
+    - prepack-webpack-plugin > prepack > v8-profiler > node-pre-gyp > hawk > boom > hoek:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: 'npm:hoek:20180212'
+        path: >-
+          prepack-webpack-plugin > prepack > v8-profiler > node-pre-gyp > hawk >
+          boom > hoek
+    - karma > log4js > loggly > request > hawk > sntp > hoek:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: 'npm:hoek:20180212'
+        path: karma > log4js > loggly > request > hawk > sntp > hoek
+    - prepack-webpack-plugin > prepack > v8-profiler > node-pre-gyp > hawk > sntp > hoek:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: 'npm:hoek:20180212'
+        path: >-
+          prepack-webpack-plugin > prepack > v8-profiler > node-pre-gyp > hawk >
+          sntp > hoek
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - karma > log4js > mailgun-js > proxy-agent > https-proxy-agent:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: SNYK-JS-HTTPSPROXYAGENT-469131
+        path: karma > log4js > mailgun-js > proxy-agent > https-proxy-agent
+    - karma > log4js > mailgun-js > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: SNYK-JS-HTTPSPROXYAGENT-469131
+        path: >-
+          karma > log4js > mailgun-js > proxy-agent > pac-proxy-agent >
+          https-proxy-agent
+  SNYK-JS-LODASH-567746:
+    - '@angular-devkit/build-angular > node-sass > sass-graph > lodash':
+        patched: '2023-08-31T15:21:08.109Z'
+        id: SNYK-JS-LODASH-567746
+        path: '@angular-devkit/build-angular > node-sass > sass-graph > lodash'
+    - karma > log4js > hipchat-notifier > lodash:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: SNYK-JS-LODASH-567746
+        path: karma > log4js > hipchat-notifier > lodash
+    - '@angular-devkit/build-angular > node-sass > gaze > globule > lodash':
+        patched: '2023-08-31T15:21:08.109Z'
+        id: SNYK-JS-LODASH-567746
+        path: '@angular-devkit/build-angular > node-sass > gaze > globule > lodash'
+    - karma > log4js > mailgun-js > async > lodash:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: SNYK-JS-LODASH-567746
+        path: karma > log4js > mailgun-js > async > lodash
+    - firebase-tools > @google-cloud/functions-emulator > googleapis > async > lodash:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          firebase-tools > @google-cloud/functions-emulator > googleapis > async
+          > lodash
+    - karma > log4js > slack-node > requestretry > lodash:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: SNYK-JS-LODASH-567746
+        path: karma > log4js > slack-node > requestretry > lodash
+    - firebase-tools > @google-cloud/functions-emulator > lodash:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: SNYK-JS-LODASH-567746
+        path: firebase-tools > @google-cloud/functions-emulator > lodash
+  'npm:lodash:20180130':
+    - firebase-tools > @google-cloud/functions-emulator > cli-table2 > lodash:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: 'npm:lodash:20180130'
+        path: >-
+          firebase-tools > @google-cloud/functions-emulator > cli-table2 >
+          lodash
+  'npm:tunnel-agent:20170305':
+    - karma > log4js > loggly > request > tunnel-agent:
+        patched: '2023-08-31T15:21:08.109Z'
+        id: 'npm:tunnel-agent:20170305'
+        path: karma > log4js > loggly > request > tunnel-agent
