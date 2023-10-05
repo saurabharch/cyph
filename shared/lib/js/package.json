@@ -3,7 +3,7 @@
     "@agm/core": "^1.0.0-beta.3",
     "@angular-devkit/architect": "^0.7.0",
     "@angular-devkit/architect-cli": "^0.7.0",
-    "@angular-devkit/build-angular": "^0.7.0",
+    "@angular-devkit/build-angular": "^14.2.13",
     "@angular-devkit/build-ng-packagr": "^0.7.0",
     "@angular-devkit/build-optimizer": "^0.7.0",
     "@angular-devkit/build-webpack": "^0.7.0",
