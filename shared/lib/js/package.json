@@ -427,7 +427,7 @@
 		"stream-http": "^3.2.0",
 		"stripe": "^12.16.0",
 		"stripe-angular": "^1.9.3",
-		"stylelint": "^15.10.2",
+		"stylelint": "^16.1.0",
 		"stylelint-scss": "^5.0.1",
 		"supabase": "^1.82.2",
 		"superdilithium": "^2.0.6",
