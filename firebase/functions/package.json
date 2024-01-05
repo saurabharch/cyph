@@ -47,7 +47,7 @@
 		"plivo": "*",
 		"promise-semaphore": "*",
 		"stripe": "*",
-		"twilio": "*"
+		"twilio": "4.19.3"
 	},
 	"engines": {
 		"node": "18"
