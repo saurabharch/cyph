@@ -369,7 +369,7 @@
 		"ngx-sharebuttons": "^12.0.0",
 		"ngx-speed-dial": "^13.0.0",
 		"ngx-teximate": "^0.3.0",
-		"nodemailer": "^6.9.4",
+		"nodemailer": "^6.9.9",
 		"ntru": "^4.0.4",
 		"ntru-legacy": "^1.0.4",
 		"open": "^9.1.0",
