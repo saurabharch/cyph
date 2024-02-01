@@ -42,7 +42,7 @@
 		"multiformats": "*",
 		"mustache": "*",
 		"node": "18",
-		"nodemailer": "*",
+		"nodemailer": "6.9.9",
 		"phone-number-timezone": "*",
 		"plivo": "*",
 		"promise-semaphore": "*",
