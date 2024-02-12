@@ -19,7 +19,7 @@
 		"@angular/bazel": "^14.3.0",
 		"@angular/cdk": "^14.2.7",
 		"@angular/cdk-experimental": "^14.2.7",
-		"@angular/cli": "^14.2.12",
+		"@angular/cli": "^17.0.0",
 		"@angular/common": "^14.3.0",
 		"@angular/compiler": "^14.3.0",
 		"@angular/compiler-cli": "^14.3.0",
