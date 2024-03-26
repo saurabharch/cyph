@@ -429,7 +429,7 @@
 		"stripe-angular": "^1.9.3",
 		"stylelint": "^15.10.2",
 		"stylelint-scss": "^5.0.1",
-		"supabase": "^1.82.2",
+		"supabase": "^1.150.6",
 		"superdilithium": "^2.0.6",
 		"superfalcon": "^2.0.6",
 		"supersphincs": "^8.0.6",
