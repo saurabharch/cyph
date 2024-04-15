@@ -20,7 +20,7 @@
 		"cors": "*",
 		"crisp-api": "*",
 		"datastore-core": "*",
-		"dompurify": "*",
+		"dompurify": "3.0.11",
 		"fast-crc32c": "*",
 		"firebase": "*",
 		"firebase-admin": "*",
