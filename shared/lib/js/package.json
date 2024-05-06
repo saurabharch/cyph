@@ -274,7 +274,7 @@
 		"firebase-admin": "^11.10.1",
 		"firebase-functions": "^4.4.1",
 		"firebase-server": "^1.1.0",
-		"firebase-tools": "^12.4.6",
+		"firebase-tools": "^13.6.1",
 		"fork-ts-checker-webpack-plugin": "^8.0.0",
 		"glob": "^10.3.3",
 		"gpu.js": "^2.16.0",
