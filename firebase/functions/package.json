@@ -44,7 +44,7 @@
 		"node": "18",
 		"nodemailer": "*",
 		"phone-number-timezone": "*",
-		"plivo": "*",
+		"plivo": "4.64.0",
 		"promise-semaphore": "*",
 		"stripe": "*",
 		"twilio": "*"
