@@ -2,7 +2,7 @@
 	"dependencies": {
 		"@agm/core": "^3.0.0-beta.0",
 		"@angular-builders/bazel": "^16.0.0",
-		"@angular-builders/custom-webpack": "^16.0.0",
+		"@angular-builders/custom-webpack": "^18.0.0",
 		"@angular-devkit/architect": "^0.1402.12",
 		"@angular-devkit/architect-cli": "^0.1402.12",
 		"@angular-devkit/build-angular": "^14.2.12",
