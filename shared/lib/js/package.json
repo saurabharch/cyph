@@ -378,7 +378,7 @@
 		"parchment": "^2.0.1",
 		"path-browserify": "^1.0.1",
 		"pdf-lib": "^1.17.1",
-		"pdfjs-dist": "^3.8.162",
+		"pdfjs-dist": "^4.4.168",
 		"pdfkit": "^0.13.0",
 		"pinch-zoom-js": "^2.3.5",
 		"prettier": "^3.0.0",
