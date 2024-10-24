@@ -24,7 +24,7 @@
 		"fast-crc32c": "*",
 		"firebase": "*",
 		"firebase-admin": "*",
-		"firebase-functions": "*",
+		"firebase-functions": "6.1.0",
 		"firebase-tools": "*",
 		"ical-generator": "*",
 		"ipfs-core": "*",
