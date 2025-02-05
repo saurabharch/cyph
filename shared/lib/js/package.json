@@ -247,7 +247,7 @@
 		"d3": "^7.8.5",
 		"datastore-core": "^9.2.0",
 		"datauri": "^4.1.0",
-		"devextreme": "^23.1.4",
+		"devextreme": "^24.2.3",
 		"devextreme-angular": "^23.1.4",
 		"dexie": "^3.2.4",
 		"dilithium-crystals": "^1.0.6",
