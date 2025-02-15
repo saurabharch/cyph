@@ -20,12 +20,12 @@
 		"cors": "*",
 		"crisp-api": "*",
 		"datastore-core": "*",
-		"dompurify": "*",
+		"dompurify": "3.2.4",
 		"fast-crc32c": "*",
 		"firebase": "*",
 		"firebase-admin": "*",
 		"firebase-functions": "*",
-		"firebase-tools": "*",
+		"firebase-tools": "13.31.0",
 		"ical-generator": "*",
 		"ipfs-core": "*",
 		"ipfs-repo": "*",
@@ -47,7 +47,7 @@
 		"plivo": "*",
 		"promise-semaphore": "*",
 		"stripe": "*",
-		"twilio": "*"
+		"twilio": "5.4.4"
 	},
 	"engines": {
 		"node": "18"
