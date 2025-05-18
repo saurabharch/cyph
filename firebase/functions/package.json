@@ -19,7 +19,7 @@
 		"abort-controller": "*",
 		"cors": "*",
 		"crisp-api": "*",
-		"datastore-core": "*",
+		"datastore-core": "9.2.5",
 		"dompurify": "*",
 		"fast-crc32c": "*",
 		"firebase": "*",
