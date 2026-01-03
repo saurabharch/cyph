@@ -25,7 +25,7 @@
 		"firebase": "*",
 		"firebase-admin": "*",
 		"firebase-functions": "*",
-		"firebase-tools": "*",
+		"firebase-tools": "13.0.0",
 		"ical-generator": "*",
 		"ipfs-core": "*",
 		"ipfs-repo": "*",
