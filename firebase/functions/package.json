@@ -25,7 +25,7 @@
 		"firebase": "*",
 		"firebase-admin": "*",
 		"firebase-functions": "*",
-		"firebase-tools": "*",
+		"firebase-tools": "13.0.0",
 		"ical-generator": "*",
 		"ipfs-core": "*",
 		"ipfs-repo": "*",
@@ -35,7 +35,7 @@
 		"lodash-es": "*",
 		"lz4": "0.6.3",
 		"markdown-escapes": "*",
-		"markdown-it": "*",
+		"markdown-it": "14.1.1",
 		"maxmind": "*",
 		"mkdirp": "*",
 		"moment-timezone": "*",
@@ -44,10 +44,10 @@
 		"node": "18",
 		"nodemailer": "*",
 		"phone-number-timezone": "*",
-		"plivo": "*",
+		"plivo": "4.69.6",
 		"promise-semaphore": "*",
 		"stripe": "*",
-		"twilio": "*"
+		"twilio": "4.19.3"
 	},
 	"engines": {
 		"node": "18"
